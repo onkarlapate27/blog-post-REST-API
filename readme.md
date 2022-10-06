@@ -15,6 +15,8 @@ a. If the request is successfully executed, an array of blog post objects (sorte
 b. If any error is encountered, error will be given with appropriate status code.
 
 Refer to the image given below for more clarity 
+![get-all-blogs](https://user-images.githubusercontent.com/85246478/194210172-e4c8a755-5ebe-47f1-8c9a-6f68fe5f2e6f.JPG)
+
 
 #### 2. Create a blog post
 
@@ -29,6 +31,7 @@ a. If the request is successfully executed, the blog will be saved to database a
 b. If any error is encountered, error will be given with appropriate status code.
 
 Refer to the image given below for more clarity
+![postBlog](https://user-images.githubusercontent.com/85246478/194210196-4ac34146-f42c-4b86-987b-e776da886103.JPG)
 
 
 #### 3. Fetch all words starting with 'a' or 'A' in a blog post content with given PostId.  
@@ -42,6 +45,7 @@ b. If the PostID requested is invalid, requisite error will be raised. <br />
 c. If any other error is encountered, error will be given with appropriate status code.
 
 Refer to the image given below for more clarity
+![start-a](https://user-images.githubusercontent.com/85246478/194210213-38c5266e-52a1-490d-98dd-7aee702b60cc.JPG)
 
 
 #### 4. Replace last 3 letters with '*' for all words starting with 'a' or 'A' in a blog post content with given PostId.  
@@ -55,6 +59,7 @@ b. If the PostID requested is invalid, requisite error will be raised. <br />
 c. If any other error is encountered, error will be given with appropriate status code.
 
 Refer to the image given below for more clarity
+![replace-a](https://user-images.githubusercontent.com/85246478/194210229-5692429d-1e2f-4547-9d56-ea78fa0cbef7.JPG)
 
 
 
