@@ -21,10 +21,8 @@ Refer to the image given below for more clarity
 REQUEST:- <br />
 a. URL Path - "/api/blogs" <br />
 b. Method - POST <br />
-c. Request headers required:- <br />
-	I. Blog Title  <br />
-      II. Blog Content  <br />
-      III. Blog Category
+c. Request headers required:- blog title, blog content and blog category<br />
+	
 
 RESPONSE:- <br />
 a. If the request is successfully executed, the blog will be saved to database and the a blog post object will be returned with a PostID included in it. <br />
